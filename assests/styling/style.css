@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    
+}
+body{
+    overflow-x: hidden;
+    background-image: url("");
+}
+a{
+    padding: 10px;
+    text-decoration: none !important;
+    font-size: 20px;
+    color: black !important;
+    margin-left: 10px;
+}
+.nav :hover{
+    color: slateblue !important;
+}
+.nav{
+    float: right;
+}
+.logo{
+    max-width: 60px;
+}
+.profile{
+    max-width: 500px !important; 
+     margin-top: 8%;
+    float: right;
+}
+span{
+    color: blueviolet;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+    max-width: 50px;
+}
+
