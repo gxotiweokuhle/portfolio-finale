@@ -33,6 +33,7 @@ span{
     color: blueviolet;
 }
 footer{
+    margin-top: 20%;
     display: flex;
     flex-direction: row;
     max-width: 90px;
