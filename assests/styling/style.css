@@ -1,12 +1,11 @@
 *{
     box-sizing: border-box;
     padding: 0;
-    
+    margin: 0;
 }
 body{
     overflow-x: hidden;
-    background-image: url(/assests/images/Color\ Hunt\ Palette\ 3f3b6c624f829f73aba3c7d6.png);
-   
+    background-color: palevioletred;
 }
 a{
     padding: 10px;
@@ -33,7 +32,7 @@ span{
     color: blueviolet;
 }
 footer{
-    margin-top: 20%;
+    margin-top: 8%;
     display: flex;
     flex-direction: row;
     max-width: 90px;
