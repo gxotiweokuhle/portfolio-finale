@@ -47,3 +47,14 @@ form{
     flex-direction: column;
     justify-content: space-between;
 }
+#Skills{
+    width: 93.7%;
+    text-align: center;
+}
+.Bootstrap{
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+.Css, .html{
+    padding-left: 20px;
+}
