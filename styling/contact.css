@@ -23,25 +23,14 @@ a{
 .logo{
     max-width: 60px;
 }
-.profile{
-    max-width: 500px !important; 
-     margin-top: 8%;
-    float: right;
-}
-.style{
-    color: blueviolet;
-}
 footer{
     margin-top: 8%;
     display: flex;
     flex-direction: row;
     max-width: 90px;
-}
-.cv{
-    margin-left: 20%;
+   
 }
 .copyright{
     text-align: center;
-    font-size: 25px;
     color: black;
 }

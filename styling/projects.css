@@ -1,7 +1,7 @@
 *{
-    box-sizing: border-box;
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 body{
     overflow-x: hidden;
@@ -23,25 +23,29 @@ a{
 .logo{
     max-width: 60px;
 }
-.profile{
-    max-width: 500px !important; 
-     margin-top: 8%;
-    float: right;
-}
-.style{
-    color: blueviolet;
-}
-footer{
-    margin-top: 8%;
-    display: flex;
-    flex-direction: row;
-    max-width: 90px;
-}
-.cv{
-    margin-left: 20%;
-}
-.copyright{
+.text{
     text-align: center;
-    font-size: 25px;
+}
+.project2{
+    margin-top: 10%;
+    margin-left: 14%;
+}
+.project{
+    margin-top: 8%;
+    margin-left: 14%;
+}
+footer {
+        margin-top: 8%;
+        display: flex;
+        flex-direction: row;
+        max-width: 90px;
+        margin-left: 700px;
+}
+.copyright {
+    text-align: center;
     color: black;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
 }

@@ -1,7 +1,7 @@
 *{
-    box-sizing: border-box;
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 body{
     overflow-x: hidden;
@@ -23,13 +23,14 @@ a{
 .logo{
     max-width: 60px;
 }
-.profile{
-    max-width: 500px !important; 
-     margin-top: 8%;
-    float: right;
+
+.bio{
+    margin-top: 10%;
+    color: white;  
+    text-align: center;
 }
-.style{
-    color: blueviolet;
+.pic{
+    max-width: 100px;
 }
 footer{
     margin-top: 8%;
@@ -37,11 +38,12 @@ footer{
     flex-direction: row;
     max-width: 90px;
 }
-.cv{
-    margin-left: 20%;
-}
 .copyright{
     text-align: center;
-    font-size: 25px;
     color: black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
