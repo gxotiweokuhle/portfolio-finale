@@ -26,9 +26,10 @@ a{
 img{
     max-width: 400px;
 }
-h1 + h2 + p{
+p{
     color: white;
 }
+
 .mx-lg-5{
     max-width: 205px;
     margin-top: 30px;
@@ -38,6 +39,11 @@ h1 + h2 + p{
     max-width: 200px;
     margin-top: 40px;
     float: left;
+    
+}
+.carousel-caption{
+    padding-top: 50%;
+    color: black;
 }
 .footer{
     margin-top: 10%;
