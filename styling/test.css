@@ -39,15 +39,18 @@ h1 + h2 + p{
     margin-top: 40px;
     float: left;
 }
-footer{
-    margin-top: 8%;
-    margin-left: 700px;
+.footer{
+    margin-top: 10%;
     display: flex;
-    flex-direction: row !important;
-    max-width: 90px !important;
+    flex-direction: row;
+    padding-right: 80px;
 }
+.nav-down{
+    max-width: 100px;
+    
+}
+
 .copyright{
     text-align: center;
-    font-size: 25px;
     color: black;
 }

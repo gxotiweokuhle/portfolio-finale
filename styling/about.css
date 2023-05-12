@@ -36,7 +36,7 @@ footer{
     margin-top: 8%;
     display: flex;
     flex-direction: row;
-    max-width: 90px;
+    max-width: 240px;
 }
 .copyright{
     text-align: center;
